@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ben!
 
-<!--
-**BenRomano96/BenRomano96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc Physics student at Ariel University with a passion for machine learning, remote sensing, and geospatial data processing.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🛰️ **Terrain Conductivity Classification**  
+  Combines satellite imagery, CNNs, and signal modeling to compute conductivity along a path.  
+  [View the project](https://github.com/BenRomano96/TerrainConductivityClassification)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Use
+- Python, TensorFlow, OpenCV, Pandas
+- MATLAB, Git, Jupyter, GitHub Actions
+
+## 📫 Reach Me
+- [Email](mailto:BenRomano508@gmail.com)
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ben-romano-7852b935b/))
+
+---
+_This profile is always a work in progress 🚧_
