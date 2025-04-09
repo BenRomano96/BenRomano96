@@ -13,7 +13,7 @@ I'm an MSc Physics student at Ariel University with a passion for machine learni
 
 ## 📫 Reach Me
 - [Email](mailto:BenRomano508@gmail.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ben-romano-7852b935b/))
+- [LinkedIn](https://www.linkedin.com/in/ben-romano-7852b935b)
 
 ---
 _This profile is always a work in progress 🚧_
